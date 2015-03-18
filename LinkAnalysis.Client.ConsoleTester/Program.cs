@@ -11,6 +11,7 @@ namespace LinkAnalysis.Client.ConsoleTester
         static void Main(string[] args)
         {
             Console.WriteLine("This is a test");
+            Console.ReadKey();
         }
     }
 }
